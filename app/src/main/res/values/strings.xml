@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EmpInfoApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="search">Enter name or department to search</string>
+    <string name="emp_name_desc">Name of Employee</string>
+    <string name="emp_dept_desc">Department</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
